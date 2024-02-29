@@ -1,0 +1,6 @@
+C:.
+    directorytree.txt
+    genetic sudoku solver.ipynb
+    README.md
+    LICENSE.txt
+ 
